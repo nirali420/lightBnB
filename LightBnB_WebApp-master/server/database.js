@@ -9,7 +9,6 @@ const pool = new Pool({
   host: "localhost",
   database: "lightbnb"
 });
-/// Users
 
 /**
  * Get a single user from the database given their email.
